@@ -1,9 +1,10 @@
+%{?_javapackages_macros:%_javapackages_macros}
 Name:		mongo-java-driver
 Version:	2.11.3
-Release:	4%{?dist}
+Release:	4.1
 Summary:	A Java driver for MongoDB
 
-Group:		Development/Libraries
+Group:		Development/Java
 BuildArch:	noarch
 License:	ASL 2.0
 URL:		http://www.mongodb.org/display/DOCS/Java+Language+Center
@@ -24,7 +25,7 @@ This is the Java driver for MongoDB.
 
 %package bson
 Summary:	A Java-based BSON implementation
-Group:		Development/Libraries
+Group:		Development/Java
 Requires:	jpackage-utils
 
 %description bson

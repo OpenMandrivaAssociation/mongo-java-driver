@@ -1,7 +1,7 @@
 %{?_javapackages_macros:%_javapackages_macros}
 Name:		mongo-java-driver
 Version:	2.11.3
-Release:	4.2
+Release:	4.3
 Summary:	A Java driver for MongoDB
 
 Group:		Development/Java

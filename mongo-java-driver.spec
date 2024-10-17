@@ -7,7 +7,7 @@ Summary:	A Java driver for MongoDB
 Group:		Development/Java
 BuildArch:	noarch
 License:	ASL 2.0
-URL:		http://www.mongodb.org/display/DOCS/Java+Language+Center
+URL:		https://www.mongodb.org/display/DOCS/Java+Language+Center
 Source0:	https://github.com/mongodb/%{name}/archive/r%{version}.tar.gz
 
 BuildRequires:	jpackage-utils
